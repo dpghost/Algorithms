@@ -1,0 +1,15 @@
+c:\Monkeys\bin\Debug\ShakespeareanMonkeys.exe.config
+c:\Monkeys\bin\Debug\ShakespeareanMonkeys.exe
+c:\Monkeys\bin\Debug\ShakespeareanMonkeys.pdb
+c:\Monkeys\bin\Debug\mscorlib.dll
+c:\Monkeys\bin\Debug\normidna.nlp
+c:\Monkeys\bin\Debug\normnfc.nlp
+c:\Monkeys\bin\Debug\normnfd.nlp
+c:\Monkeys\bin\Debug\normnfkc.nlp
+c:\Monkeys\bin\Debug\normnfkd.nlp
+c:\Monkeys\obj\Debug\ShakespeareanMonkeys_CSharp.csprojResolveAssemblyReference.cache
+c:\Monkeys\obj\Debug\ShakespeareanMonkeys.MainForm.resources
+c:\Monkeys\obj\Debug\ShakespeareanMonkeys.Properties.Resources.resources
+c:\Monkeys\obj\Debug\ShakespeareanMonkeys_CSharp.csproj.GenerateResource.Cache
+c:\Monkeys\obj\Debug\ShakespeareanMonkeys.exe
+c:\Monkeys\obj\Debug\ShakespeareanMonkeys.pdb
